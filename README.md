@@ -1,2 +1,2 @@
 # HousePricePredictor-Model-
-ML based house predictor mode;.
+ML based house predictor model
